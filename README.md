@@ -398,6 +398,7 @@
      }
  }
    </style>
+   </head>
  <body>
     
  <!-- navbar -->
