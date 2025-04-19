@@ -17,12 +17,14 @@
 
  ![home page](https://github.com/meenukashyap/Flipkart-clone/blob/d09a94b2a556ce026fc65b6f005f5f137bd7e827/e384ed25-bfcc-4de4-80f9-041efbf28fa2.jpg)
  
- ## BK RECOMMENDED
+ ## Product
 
  ![BK RECOMMENDED](https://github.com/meenukashyap/Flipkart-clone/blob/d09a94b2a556ce026fc65b6f005f5f137bd7e827/ebb26ebe-427c-4e31-a242-eb5c5a74e59b.jpg)
 
- ## Footer
+ ## offer
 
- ![Footer]()
+ ![Footer](https://github.com/meenukashyap/Flipkart-clone/blob/eb91f0928702b5aa93523cdd8ccece7c0d4ebf78/0e13d202-aff9-40c6-987b-b2705da5679f.jpg)
+
+  ![Footer]()
  
 
