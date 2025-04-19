@@ -25,6 +25,6 @@
 
  ![Footer](https://github.com/meenukashyap/Flipkart-clone/blob/eb91f0928702b5aa93523cdd8ccece7c0d4ebf78/0e13d202-aff9-40c6-987b-b2705da5679f.jpg)
 
-  ![Footer]()
+  ![Footer](https://github.com/meenukashyap/Flipkart-clone/blob/d09a94b2a556ce026fc65b6f005f5f137bd7e827/1686bac7-1fcf-4556-8c9b-8c5ce9916180.jpg)
  
 
