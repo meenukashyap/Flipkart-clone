@@ -15,7 +15,7 @@
 
 ## Home Page
 
- ![home page]()
+ ![home page](https://github.com/meenukashyap/Flipkart-clone/blob/d09a94b2a556ce026fc65b6f005f5f137bd7e827/e384ed25-bfcc-4de4-80f9-041efbf28fa2.jpg)
  
  ## BK RECOMMENDED
 
