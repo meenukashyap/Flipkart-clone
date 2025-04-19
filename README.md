@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 </p>
 
+<h3 align="center"><a href="https://celadon-fudge-4f6a42.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+
+
 ## Home Page
 
  ![home page](https://github.com/meenukashyap/Flipkart-clone/blob/d09a94b2a556ce026fc65b6f005f5f137bd7e827/e384ed25-bfcc-4de4-80f9-041efbf28fa2.jpg)
